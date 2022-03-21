@@ -6,6 +6,7 @@
 			<class name="com.org.selenium.pom.framework.LoginTest">
 				<methods>
 					<include name="loginTest" />
+					<include name="loginTest" />
 					<include name="dloginTest1" />
 				</methods>
 			</class>
